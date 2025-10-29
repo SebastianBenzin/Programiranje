@@ -42,7 +42,7 @@ elif 15 < temperatura <= 25:
 else:
     print("Vruće")
     
-'''
+
 
 # PETLJE
 
@@ -51,3 +51,30 @@ for i in range(2, 23):
         print (f"{i} je paran broj.")
     else:
         print (f"{i} je neparan broj.")
+
+
+for i in range(1,21):
+    if i%2 == 0:
+        print(i)
+
+
+i=2
+while i <= 20:
+    print(i)
+    i+=2
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
